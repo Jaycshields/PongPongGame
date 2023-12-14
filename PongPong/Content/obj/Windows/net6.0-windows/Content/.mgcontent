@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Test/source/repos/PongPong/PongPong/Content/Ball.png</File>
+    <File>C:/Users/Test/source/repos/PongPong/PongPong/Content/BlackBackground.png</File>
+    <File>C:/Users/Test/source/repos/PongPong/PongPong/Content/Racket.png</File>
+    <File>C:/Users/Test/source/repos/PongPong/PongPong/Content/Score.spritefont</File>
+    <File>C:/Users/Test/source/repos/PongPong/PongPong/Content/Start.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Test/source/repos/PongPong/PongPong/Content/Ball.png","C:/Users/Test/source/repos/PongPong/PongPong/Content/bin/Windows/Content/Ball.xnb","TextureProcessor","Texture2DContent",121,4181,0.8368945
+"C:/Users/Test/source/repos/PongPong/PongPong/Content/BlackBackground.png","C:/Users/Test/source/repos/PongPong/PongPong/Content/bin/Windows/Content/BlackBackground.xnb","TextureProcessor","Texture2DContent",99,1109,0.7040728
+"C:/Users/Test/source/repos/PongPong/PongPong/Content/Racket.png","C:/Users/Test/source/repos/PongPong/PongPong/Content/bin/Windows/Content/Racket.xnb","TextureProcessor","Texture2DContent",102,1109,0.2097987
+"C:/Users/Test/source/repos/PongPong/PongPong/Content/Score.spritefont","C:/Users/Test/source/repos/PongPong/PongPong/Content/bin/Windows/Content/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.7472219
+"C:/Users/Test/source/repos/PongPong/PongPong/Content/Start.spritefont","C:/Users/Test/source/repos/PongPong/PongPong/Content/bin/Windows/Content/Start.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,1.1480414
