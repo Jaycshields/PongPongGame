@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualBasic.Devices;
+using Microsoft.VisualBasic.Devices;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -40,6 +40,7 @@ namespace PongPong
         public string start;
         private GameStates _gamestate;
 
+        //This holds 3 states in an enumerator
         public  enum GameStates
         {
             Menu,
@@ -72,7 +73,7 @@ namespace PongPong
             
 
            
-
+            //This sets the start button name in the menu and sets the initial High Score in the menu
             start = "START";
             Highscore = 0;
         
@@ -115,7 +116,7 @@ namespace PongPong
                 _gamestate = GameStates.Menu;
                 
             }
-
+            //Sets up the setting for the gameplay, when switching to the playing state
             if(Microsoft.Xna.Framework.Input.Keyboard.GetState().IsKeyDown(Keys.Enter) && _gamestate == GameStates.Menu)
             {
                 _gamestate = GameStates.Playing;
